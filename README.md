@@ -32,18 +32,12 @@ AluraStore/
 ## 📊 Exemplos de Gráficos e Insights
 
 ### Faturamento por Loja
-
-![Faturamento](faturamento.png)
 ➡️ **Insight**: A *Loja 1* apresentou o maior faturamento, enquanto a *Loja 4* teve o menor desempenho.
 
 ### Avaliação das Lojas
-
-![Avaliações](avaliacoes.png)
 ➡️ **Insight**: Apesar das diferenças no faturamento, as lojas mantêm notas de avaliação muito próximas (entre 3.9 e 4.1).
 
 ### Custos Médios de Frete
-
-![Frete](frete.png)
 ➡️ **Insight**: A *Loja 1* apresenta o maior custo médio de frete, enquanto a *Loja 4* tem o menor, o que pode indicar diferenças logísticas.
 
 ---
@@ -80,4 +74,5 @@ AluraStore/
 * Git & GitHub
 
 ---
+
 
