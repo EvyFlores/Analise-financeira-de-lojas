@@ -17,18 +17,6 @@ Através de gráficos e estatísticas, buscamos identificar padrões e apoiar de
 
 ---
 
-## 📂 Estrutura do Projeto
-
-```
-AluraStore/
-│── README.md              <- Documentação do projeto
-│── AluraStore.ipynb       <- Notebook principal com a análise
-│── data/                  <- Pasta com os dados utilizados
-│── outputs/               <- Resultados gerados (gráficos, tabelas)
-```
-
----
-
 ## 📊 Exemplos de Gráficos e Insights
 
 ### Faturamento por Loja
@@ -74,5 +62,6 @@ AluraStore/
 * Git & GitHub
 
 ---
+
 
 
