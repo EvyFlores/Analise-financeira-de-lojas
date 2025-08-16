@@ -60,8 +60,3 @@ Através de gráficos e estatísticas, buscamos identificar padrões e apoiar de
 * Python (Pandas, Matplotlib)
 * Jupyter Notebook
 * Git & GitHub
-
----
-
-
-
